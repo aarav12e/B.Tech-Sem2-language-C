@@ -1,4 +1,4 @@
-// 13. WAP to find factorial of a number
+// WAP to find the factorial of a number
 #include <stdio.h>
 int main() {
     int n, fact = 1;
