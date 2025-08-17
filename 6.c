@@ -1,3 +1,4 @@
+//Write a C program to read two integers from the user and check whether the numbers are equal or not equal. Display the appropriate message.
 int main() {
     int a, b;
     printf("Enter two numbers: ");
