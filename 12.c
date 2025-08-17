@@ -1,3 +1,4 @@
+//Write a C program to read an integer n from the user and calculate the sum of all natural numbers from 1 to n. Display the result.
 #include <stdio.h>
 int main() {
     int n, sum = 0;
