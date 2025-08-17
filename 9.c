@@ -1,3 +1,6 @@
+// Write a C program to read a year from the user and check whether it is a leap year or not using the following condition:
+
+// A year is a leap year if it is divisible by 4 but not by 100, or it is divisible by 400.
 #include <stdio.h>
 int main() {
     int year;
