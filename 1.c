@@ -1,3 +1,4 @@
+//Write a C program to accept marks of 5 subjects from the user, calculate the total marks and percentage (assuming each subject is out of 100), and display the results.
 #include <stdio.h>
 int main() {
     int marks[5], i, sum = 0;
