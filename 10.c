@@ -1,3 +1,12 @@
+//Write a C program to accept marks of 5 subjects from the user, calculate the total percentage, and display the corresponding grade according to the following criteria:
+
+// A: Percentage ≥ 90
+
+// B: Percentage ≥ 80 and < 90
+
+// C: Percentage ≥ 60 and < 80
+
+// D: Percentage < 60
 #include <stdio.h>
 int main() {
     int marks[5], i, sum = 0;
