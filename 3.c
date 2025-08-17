@@ -1,3 +1,4 @@
+//Write a C program to read the radius of a circle and calculate its area and circumference using the formula:
 #include <stdio.h>
 #define PI 3.1416
 int main() {
