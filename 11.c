@@ -1,3 +1,4 @@
+//Write a C program that takes two integers and an operator (+, -, *, /) from the user and performs the corresponding arithmetic operation using a switch statement. If division is selected, handle division by zero by displaying an error message.
 #include <stdio.h>
 int main() {
     int a, b;
