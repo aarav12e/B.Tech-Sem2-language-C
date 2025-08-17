@@ -1,3 +1,4 @@
+//Write a C program to read three integers from the user and determine which number is the greatest. Display the greatest number.
 #include <stdio.h>
 int main() {
     int a, b, c;
