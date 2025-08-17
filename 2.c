@@ -1,3 +1,4 @@
+//Write a C program to input Principal amount, Rate of interest, and Time from the user, then calculate and display Simple Interest (SI) and Compound Interest (CI)
 #include <stdio.h>
 #include <math.h>
 int main() {
