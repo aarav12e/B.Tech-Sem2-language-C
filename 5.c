@@ -1,3 +1,4 @@
+//Write a C program to read two integers and swap their values using a temporary variable. Display the numbers after swapping.
 #include <stdio.h>
 int main() {
     int a, b, temp;
