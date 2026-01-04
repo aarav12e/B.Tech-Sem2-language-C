@@ -1,4 +1,4 @@
 # My Program
-This is my all practice code in c language
+This is all my practice code in C language
 
-hello
+
